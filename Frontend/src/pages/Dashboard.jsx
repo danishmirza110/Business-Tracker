@@ -11,9 +11,9 @@ import StatCard from "../components/dashboard/StatCard";
 import { useEffect, useState } from "react";
 import { getDashboard } from "../api/dashboardApi";
 import RevenueChart from "../components/dashboard/RevenueChart";
-import OrderStatusChart from "../components/Dashboard/OrderPieChart";
+import OrderStatusChart from "../components/dashboard/OrderPieChart";
 import RecentOrdersTable from "../components/dashboard/RecentOrders"
-import LowStockTable from "../components/Dashboard/LowStock";
+import LowStockTable from "../components/dashboard/LowStock";
 
 
 
