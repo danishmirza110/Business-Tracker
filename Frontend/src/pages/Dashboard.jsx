@@ -7,7 +7,7 @@ import {
   FaWallet,
   FaChartPie,
 } from "react-icons/fa";
-import StatCard from "../components/dashboard/StatCard";
+import StatCard from "../components/dashboard/Statcard";
 import { useEffect, useState } from "react";
 import { getDashboard } from "../api/dashboardApi";
 import RevenueChart from "../components/dashboard/RevenueChart";
